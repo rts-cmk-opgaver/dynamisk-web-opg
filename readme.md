@@ -20,7 +20,6 @@
 - Formålet med opgaven er at træne dynamisk generering af html på baggrund af data. 
 - Det forventes **ikke**, at du bliver færdig med alle elementer i dag.
 - Det forventes **ikke** at den færdige fil i browseren ligner layoutet 100%.
-- **Med andre ord:** Brug css til fx. at få elementer til at stå ved siden af hinanden. og til "grov styling". *Fokus er ikke på css-delen, men på javascript delen.*  
 
 ## Aflevering
 - Commit og push ofte
