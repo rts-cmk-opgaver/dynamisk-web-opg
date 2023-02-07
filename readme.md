@@ -14,7 +14,7 @@
 - brug de forskellige data i data.js til at generere indholdet i layoutet i figma filen.
 - du må **ikke** ændre eller tilføje indhold til de fem sections i `index.html`. Al manipulation af filen **skal** foregå via javascript.
 - du må **gerne** tilføje ekstra script-tags, hvis du har brug for at dele din js fil lidt op.
-- der er ikke data til footeren i `data.js`. Brug din viden fra dynamisk web opgaven: data som objekter. til at udvide data.js med data til footeren.
+- der er ikke data til footeren i `data.js`. Brug din viden fra dynamisk web opgaven: data som objekter. til at udvide data.js med et data objekt til footeren.
 
 ## Mål
 - Formålet med opgaven er at træne dynamisk generering af html på baggrund af data. 
