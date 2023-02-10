@@ -15,7 +15,7 @@
 - du må **ikke** ændre eller tilføje indhold til de fem sections i `index.html`. Al manipulation af filen **skal** foregå via javascript.
 - du må **gerne** tilføje ekstra script-tags, hvis du har brug for at dele din js fil lidt op.
 - der er ikke data til footeren i `data.js`. Brug din viden fra dynamisk web opgaven: data som objekter, til at udvide data.js med et data objekt som indeholder informationerne til footeren.
-- Strukturer din CSS med din foretrukne metodologi som eks. smacss, BEM eller atomic design.
+- Strukturer din CSS med din foretrukne metodologi som fx. smacss, BEM eller atomic design el.
 
 ## Mål
 - Formålet med opgaven er at træne dynamisk generering af html på baggrund af data. 
