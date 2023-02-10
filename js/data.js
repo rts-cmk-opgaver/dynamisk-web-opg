@@ -94,3 +94,5 @@ let advantages = [
         text: "You don’t have to find out later or only after camenierk and trarsparent Easyamper ratains pliacas and beautias of your tariaary and halpin a fixed commission on each transaction of 5"
     },
 ]
+
+// Opret dit dataobjekt til footerens indhold herunder
